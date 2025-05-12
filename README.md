@@ -3,7 +3,7 @@ Welcome to the collection of links for your AZ-900 training!
 ---
 
 ## 📚 Official Course Materials
-- 🔗 [AZ-900 Training Overview]https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
+- 🔗 [AZ-900 Training Overview](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 - 🔗 [MD-102 Training Course](https://learn.microsoft.com/en-us/training/courses/md-102t00)
 - 🔗 [Study Guide for MD-102](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/md-102)
 
