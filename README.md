@@ -7,8 +7,8 @@ Welcome to the collection of links for your AZ-900 training!
 - 🔗 [AZ-900 Training Course](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 - 🔗 [Study Guide for AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 
-## 📊 Intune What's New
-- 🔗 [Intune What's New Documentation](https://learn.microsoft.com/en-us/mem/intune/fundamentals/whats-new)
+## 📊 Azure Infrastructure
+- 🔗 [Azure Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 
 ## 🎡 Intune Suite Events
 - 🔗 [Tech Accelerator: Microsoft Intune Suite](https://techcommunity.microsoft.com/t5/tech-community-live/tech-accelerator-microsoft-intune-suite/ec-p/3756368)
