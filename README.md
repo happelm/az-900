@@ -11,5 +11,7 @@ Welcome to the collection of links for your AZ-900 training!
 - 🔗 [Azure Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - 🔗 [Azure Regions](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
 - 🔗 [Azure Ressource Moving](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-support-resources)
-
 - 🔗 [Azure SLAs](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)
+- 🔗 [VM Sizes](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview)
+
+## 📊 xx
