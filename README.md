@@ -10,4 +10,4 @@ Welcome to the collection of links for your AZ-900 training!
 ## 📊 Azure Infrastructure
 - 🔗 [Azure Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - 🔗 [Azure Regions](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
-  
+- 🔗 [Azure Ressource Moving](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-support-resources)
