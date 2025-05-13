@@ -14,3 +14,4 @@ Welcome to the collection of links for your AZ-900 training!
 - 🔗 [Azure SLAs](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)
 - 🔗 [VM Sizes](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview)
 - 🔗 [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
+- 🔗 [Service Trust Portal](https://servicetrust.microsoft.com/)
