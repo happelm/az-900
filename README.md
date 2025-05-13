@@ -13,5 +13,4 @@ Welcome to the collection of links for your AZ-900 training!
 - 🔗 [Azure Ressource Moving](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-support-resources)
 - 🔗 [Azure SLAs](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)
 - 🔗 [VM Sizes](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview)
-
-## 📊 xx
+- 🔗 [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
